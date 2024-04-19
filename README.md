@@ -9,6 +9,7 @@ b. Ttk.Treeview – To display a table in the GUI window.
 3. SQLite – To connect the Python script to the SQL database.
 Only the Tkinter library comes pre-installed with Python, so you need to run the following command in your terminal to install them:
 python -m pip install tkcalender sqlite
+
 Project File Structure:
 Here are the steps you will need to execute to build this project:
 1. Importing the necessary modules and libraries
